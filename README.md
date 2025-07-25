@@ -42,7 +42,7 @@ fake-website-detector/
 
 > 🔽 Live demo of the extension in action
 
-![Fake Website Detector Demo](fake-website-detector/fakewebsitedetector.gif)
+![Fake Website Detector Demo](fakewebsitedetector.gif)
 
 
 ---
