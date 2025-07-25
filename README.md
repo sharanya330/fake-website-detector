@@ -40,7 +40,7 @@ fake-website-detector/
 
 ## 📸 Screenshots
 
-![Fake Website Detector Demo](./screenshots/fake-website-demo.gif)
+![Fake Website Detector Demo](./screenshots/fakewebsitedetector.gif)
 
 
 
