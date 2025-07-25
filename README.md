@@ -38,13 +38,15 @@ fake-website-detector/
 
 ---
 
-## 📸 Screenshots
+## 📸 Demo
 
-![Fake Website Detector Demo](./screenshots/fakewebsitedetector.gif)
+> 🔽 Live demo of the extension in action
 
+![Fake Website Detector Demo](demo/fakewebsitedetector.gif)
 
 
 ---
+
 
 ## 🧪 How to Use
 
