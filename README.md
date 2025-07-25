@@ -42,7 +42,7 @@ fake-website-detector/
 
 ![Fake Website Detector Demo](./screenshots/fake-website-demo.gif)
 
-> 📝 Upload your GIF or screenshot inside a `screenshots/` folder.
+
 
 ---
 
